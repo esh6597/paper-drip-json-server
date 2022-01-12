@@ -1,0 +1,19 @@
+{
+  "name": "paper-drip-json-server",
+  "version": "1.0.0",
+  "description": "Fake API for front end development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esh6597/paper-drip-json-server.git"
+  },
+  "author": "Erin Han",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
